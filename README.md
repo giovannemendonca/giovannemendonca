@@ -8,7 +8,6 @@
 
 
 ## 🌱 Estudando ...
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [![NodeJS Badge](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=NodeJS&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 
 ## 📫 Como chegar até mim:
