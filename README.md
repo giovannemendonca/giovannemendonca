@@ -22,7 +22,7 @@
 
 ## 📫 Como chegar até mim:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanne-mendonca-5861941a6/)](https://www.linkedin.com/in/giovanne-mendon%C3%A7a-5861941a6/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanne-mendonca-5861941a6/)](https://www.linkedin.com/in/giovannemendonca/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giovannemendonca)](https://github.com/giovannemendonca)
 [![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/giovannemendonca)](https://www.instagram.com/giovannemendonca)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585986482308&text=Hello!)](https://api.whatsapp.com/send?phone=5585986482308&text=Hello!)
